@@ -1,6 +1,6 @@
 # 🎙️ Jiang Que · 蒋雀
 
-武汉大学研究生 · 声音克隆与表现力语音合成（TTS）大模型 · she/her
+武汉大学研究生 · 声音克隆与表现力语音合成（TTS）大模型
 
 ---
 
@@ -23,23 +23,4 @@
 ---
 
 <sub>Wuhan University · 声音克隆 / 表现力 TTS · reproducible &amp; offline-first</sub>
-
-## Update 2026-09-29 22:11:44
-Improved performance to improve stability - ID: 98g8627w
-
-
-## Update 2026-09-29 22:11:58
-Added configuration to optimize resource usage - ID: hjdghfk6
-
-
-## Update 2026-09-29 22:12:12
-Optimized algorithm for better user experience - ID: sl61ps2t
-
-
-## Update 2026-09-29 22:12:26
-Fixed bug for enhanced functionality - ID: ebvwpg32
-
-
-## Update 2026-09-29 22:12:40
-Added configuration to improve stability - ID: basrs12l
 
